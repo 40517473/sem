@@ -1,3 +1,3 @@
 Sample text
 Filler number two
-Checking Maven
+Checking Maven part two
